@@ -1,0 +1,10 @@
+{
+  "name": "pilot",
+  "version": "0.5.0",
+  "description": "A TypeScript wrapper for type-checking Gecko javascript",
+  "repository": "zombie/pilot",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "3.0.*"
+  }
+}
